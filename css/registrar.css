@@ -1,0 +1,56 @@
+form{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;  
+    font-family: Tahoma, sans-serif; 
+    color: rgb(253, 253, 253);
+    border-radius: 20px;
+    margin-top: 10%;
+}
+body{
+    background-image: url("../img/4.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%; 
+    background-size: cover; 
+}
+.titulo{
+    color: rgb(218, 241, 10);
+    font-family: 'Smythe', cursive;
+    font-size: 1.5em;
+    text-align: center;  
+    font-size: 3em; 
+    font-weight: bold;
+}
+.principal{
+    color: rgb(253, 253, 253);
+}
+fieldset{
+    border-radius: 30px;
+    border: solid 2px red;
+}
+.texto{
+    font-weight: 200px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+td{
+    color: rgb(248, 245, 248);
+    font-size: 2em;
+    font-family: 'Chau Philomene One', sans-serif;
+}
+.boton{
+    font-size: 1em;
+    font-family: 'Chau Philomene One', sans-serif;
+}
+.box{
+    width: 200px;
+    height: 40px;
+    background: none;
+    border:none;
+    border-bottom: 2px solid white;
+    font-size: 1em;
+    color: white;
+    text-align: center;
+}

@@ -1,0 +1,46 @@
+form{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;  
+    font-family: Tahoma, sans-serif; 
+    margin-top: 5%;
+    color: white;
+    font-weight: bold;
+}
+table{
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 20px;
+    margin-top: 5%; 
+}
+span{
+    color: rgb(181, 224, 8);
+    font-size: 2em;
+    font-family: 'Boogaloo', cursive;
+}
+body{
+    background-image: url("../img/4.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%; 
+    background-size: cover; 
+}
+fieldset{
+    border-radius: 20px solid white;
+}
+.opciones{
+    color: rgb(245, 244, 244);
+    font-size: 1.5em;
+    background: none;
+    font-family: 'Boogaloo', cursive;
+    text-align: center;
+    border: none;
+    border-bottom: 3px solid rgb(233, 226, 226);
+}
+#title{
+    color: rgb(13, 173, 13);
+    font-size: 2em;
+}
+.columna{
+  color: rgb(241, 234, 234);
+  font-size: 1.5em;
+}
